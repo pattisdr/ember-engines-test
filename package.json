@@ -44,6 +44,7 @@
   "private": true,
   "ember-addon": {
     "paths": [
+      "lib/more-frames",
       "lib/pretend-frames"
     ]
   }

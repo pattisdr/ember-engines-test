@@ -8,6 +8,7 @@ const Router = Ember.Router.extend({
 
 Router.map(function() {
   this.mount('pretend-frames');
+  this.mount('more-frames');
 });
 
 export default Router;
